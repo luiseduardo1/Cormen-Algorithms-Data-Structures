@@ -2,7 +2,7 @@
 
 ## Pseudocode
 
-![Kruskal](/fig/Kruskal.png)
+![Kruskal](fig/Kruskal.png)
 
  
 
