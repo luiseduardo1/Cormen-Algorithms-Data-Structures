@@ -2,7 +2,7 @@
 
 ## Pseudocode
 
-![Insertion sort](/fig/Insertion-sort.png)
+![Insertion sort](fig/Insertion-sort.png)
 
  
 
