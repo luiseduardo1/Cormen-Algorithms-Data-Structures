@@ -2,7 +2,7 @@
 
 ## Pseudocode
 
-![Tree-insert](/fig/Tree-insert.png)
+![Tree-insert](fig/Tree-insert.png)
 
  
 
