@@ -2,7 +2,7 @@
 
 ## Pseudocode
 
-![Tree-delete](/fig/Tree-delete.png)
+![Tree-delete](fig/Tree-delete.png)
 
  
 
