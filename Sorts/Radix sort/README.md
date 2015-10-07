@@ -2,7 +2,7 @@
 
 ## Pseudocode
 
-![Radix sort](/fig/Radix-sort.png)
+![Radix sort](fig/Radix-sort.png)
 
  
 
