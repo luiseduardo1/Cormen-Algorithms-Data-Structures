@@ -2,7 +2,7 @@
 
 ## Pseudocode
 
-![Bucket sort](/fig/Bucket-sort.png)
+![Bucket sort](fig/Bucket-sort.png)
 
  
 
