@@ -2,7 +2,7 @@
 
 ## Pseudocode
 
-![DFS](/fig/DFS.png)
+![DFS](fig/DFS.png)
 
  
 
