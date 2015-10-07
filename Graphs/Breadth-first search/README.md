@@ -2,7 +2,7 @@
 
 ## Pseudocode
 
-![BFS](/fig/BFS.png)
+![BFS](fig/BFS.png)
 
  
 
