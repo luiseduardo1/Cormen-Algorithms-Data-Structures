@@ -2,7 +2,7 @@
 
 ## Pseudocode
 
-![Bubble sort](/fig/Bubble-sort.png)
+![Bubble sort](fig/Bubble-sort.png)
 
  
 
