@@ -2,7 +2,7 @@
 
 ## Pseudocode
 
-![Floyd-Warshall](/fig/Floyd-Warshall.png)
+![Floyd-Warshall](fig/Floyd-Warshall.png)
 
  
 
