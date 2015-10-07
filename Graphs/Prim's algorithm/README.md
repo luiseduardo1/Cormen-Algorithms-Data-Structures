@@ -2,7 +2,7 @@
 
 ## Pseudocode
 
-![Prim](/fig/Prim.png)
+![Prim](fig/Prim.png)
 
  
 
