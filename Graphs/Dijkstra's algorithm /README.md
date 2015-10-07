@@ -2,7 +2,7 @@
 
 ## Pseudocode
 
-![Dijkstra](/fig/Dijkstra.png)
+![Dijkstra](fig/Dijkstra.png)
 
  
 
