@@ -2,7 +2,9 @@
 
 ## Pseudocode
 
-![Quick sort](fig/Quick-sort.png)
+![quicksort](fig/quicksort.png)
+
+![partition](fig/partition.png)
 
  
 
