@@ -1,7 +1,7 @@
 # Cormen-algorithms-implementation
 Implementation of important algorithms from the book  "Introduction to Algorithms, 3rd Edition- CLRS"
 
-# Overview
+### Overview
 
 This repo will contain the implementation of some of the most important algorithms from the book  "Introduction to Algorithms, 3rd Edition- CLRS". Details of the algorithm and implementation will be given in the algorithm folder README file.
 
