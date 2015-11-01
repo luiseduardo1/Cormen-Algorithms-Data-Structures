@@ -11,17 +11,17 @@ The algorithm start by employing a partition function:
   - At the end we will have 2 partitions and the pivot will be placed between the 2 partitions.
   - This figure taken from the book shows the partition algoritm :
 
-  ![partionfig](fig/partionFigure.png)
+  ![partionfig](fig/partitionFigure.png)
 
 Once we have the 2 partitions, we only have to re-execute the quicksort algorithm on each partition.
 
-##### Running time :
+#### Running time :
 
   - Worst case perfomance : O(n^2)
   - Best case perfomance : O(n log n)
   - Average case perfomance : O(n log n)
 
-##### Pros and cons:
+#### Pros and cons:
 
 Despite the slow worst-case running time, quicksort is often the best practical choice for sorting because it's efficient on the average.
 
