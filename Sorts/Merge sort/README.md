@@ -17,8 +17,12 @@ Here is image from the book that illustrate the merge algorithm:
 ## Pseudocode
 
 This is the pseudocode you find in the book :
-![Merge sort](fig/merge.png)
+
 ![Merge sort](fig/mergeSort.png)
+
+![Merge sort](fig/Merge.png)
+
+
 
  
 
