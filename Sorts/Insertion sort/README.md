@@ -8,6 +8,11 @@ Insertion sort works the way many people sort a hand of playing cards. We start 
 
 ##### Running time:
 
+ - Worst case perfomance : O(n^2)
+ - Best case perfomance : O(n)
+ - Average case perfomance : O(n^2)
+ - "Almost sorted" case perfomance : O(n)
+
 ##### Pros and cons:
 
  - The insertion sort works well for sorting a small number of elements.
