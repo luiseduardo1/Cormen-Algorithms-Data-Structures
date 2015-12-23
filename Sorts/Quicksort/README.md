@@ -23,7 +23,7 @@ Once we have the 2 partitions, we only have to re-execute the quicksort algorith
 
 #### Pros and cons:
 
-Despite the slow worst-case running time, quicksort is often the best practical choice for sorting because it's efficient on the average.
+Despite the slow worst-case running time, quicksort is often the best practical choice for sorting because it's efficient on the average (and sorts in place).
 
 ## Pseudocode
 
