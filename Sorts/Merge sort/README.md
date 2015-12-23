@@ -13,6 +13,7 @@ Here is image from the book that illustrate the merge algorithm:
  - Average case perfomance : O(n log n)
 
 ##### Pros and cons :
+- Merge sort have a better running time than insertion sort, but the merge procedure does not operate in place.
 
 ## Pseudocode
 
