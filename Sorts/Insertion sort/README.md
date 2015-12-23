@@ -15,7 +15,7 @@ Insertion sort works the way many people sort a hand of playing cards. We start 
 
 ##### Pros and cons:
 
- - The insertion sort works well for sorting a small number of elements.
+ - The insertion sort is a fast in-place sorting algorithm for small input sizes.
 
 ## Pseudocode
 
