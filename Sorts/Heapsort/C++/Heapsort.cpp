@@ -1,7 +1,7 @@
-//  Created by Luis Eduardo Obando on 2015-12-23.
+//  Created by Luis Eduardo Obando on 2015-10-26.
 //  Copyright (c) 2015 Luis E. Obando. All rights reserved.
 //
-//  An example of Heapsort implementation in C++ using vectors:
+//  An example of Heapsort template implementation in C++ using vectors:
 //     Worst case performance       O(n log n)
 //     Best case performance        O(n log n)
 //     Average case performance     O(n log n)
@@ -11,7 +11,8 @@
 #include <iostream>
 #include <math.h>
 
-void maxHeapify(std::vector<int>& A, int i, size_t heapSize){
+template<typename T>
+void maxHeapify(std::vector<T>& A, int i, size_t heapSize){
     int left = (i * 2) + 1;
     int right = (i * 2) + 2;
     int largest = i;
@@ -28,13 +29,15 @@ void maxHeapify(std::vector<int>& A, int i, size_t heapSize){
     }
 }
 
-void BuildMaxHeapify(std::vector<int>& A){
+template<typename T>
+void BuildMaxHeapify(std::vector<T>& A){
     for (int i = floor((A.size()/2)-1); i >= 0; --i) {
         maxHeapify(A, i, A.size()-1);
     }
 }
 
-void heapsort(std::vector<int>& A){
+template<typename T>
+void heapsort(std::vector<T>& A){
     BuildMaxHeapify(A);
     size_t heapSize = A.size()-1;
     for (size_t i = A.size()-1; i >= 1; --i) {
