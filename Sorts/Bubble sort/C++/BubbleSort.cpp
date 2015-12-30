@@ -12,9 +12,10 @@
 #include <iostream>
 #include <vector>
 
-std::vector<int> bubbleSort(std::vector<int> numbers)
+template <typename T>
+std::vector<T> bubbleSort(std::vector<T>& numbers)
 {
-    for (int i = (numbers.size() - 1); i != 0; i--)
+    for (unsigned long i = (numbers.size() - 1); i != 0; i--)
     {
         for (int j = 0; j < (numbers.size() - 1); j++)
         {
@@ -30,8 +31,8 @@ std::vector<int> bubbleSort(std::vector<int> numbers)
 // Testing the bubbleSort function
 
 int main() {
-    std::vector<int> numbers = {44, 9, 237, 1, 5, 44, 534, 17, 21, 819, 1};
-    std::vector<int> sortedNumbers = bubbleSort(numbers);
+    std::vector<float> numbers = {44.2, 9.2, 237.2, 1.5, 5.8, 44.1, 534.2, 17.3, 21.8, 819.7, 1.0};
+    std::vector<float> sortedNumbers = bubbleSort(numbers);
     for(const auto& x: sortedNumbers)
         std::cout << x <<" ";
     return 0;
