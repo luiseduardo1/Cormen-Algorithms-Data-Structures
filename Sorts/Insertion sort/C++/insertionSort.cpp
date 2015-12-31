@@ -6,7 +6,8 @@
 #include <iostream>
 #include <vector>
 
-void insertionSort(std::vector<int>& numbers)
+template<typename T>
+void insertionSort(std::vector<T>& numbers)
 {
     for (int j = 1; j < numbers.size(); j++)
     {
