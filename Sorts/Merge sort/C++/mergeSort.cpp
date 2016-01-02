@@ -16,13 +16,14 @@
  * \param[in] q Index of the last element of the first partition
  * \param[in] r Index of the last element
 */
- void merge(std::vector<int>& numbers, int p, int q, int r)
+template<typename T>
+void merge(std::vector<T>& numbers, int p, int q, int r)
 {
     int n1 = q - p + 1;  // Number of elements to be sorted in leftVector
     int n2 = r - q;      // Number of elements to be sorted in rightVector
     
-    std::vector<int> leftVector(n1 + 1); // Add one element for the sentinel value
-    std::vector<int> rightVector(n2 + 1);
+    std::vector<T> leftVector(n1 + 1); // Add one element for the sentinel value
+    std::vector<T> rightVector(n2 + 1);
     
     for (int i = 0; i < n1; i++)
     {
@@ -34,8 +35,8 @@
         rightVector[j] = numbers[q + j + 1];
     }
     
-    leftVector[n1] = std::numeric_limits<int>:: max(); // Sentinel value added at the end of the vector
-    rightVector[n2] = std::numeric_limits<int>:: max();
+    leftVector[n1] = std::numeric_limits<T>:: max(); // Sentinel value added at the end of the vector
+    rightVector[n2] = std::numeric_limits<T>:: max();
     int i = 0;
     int j = 0;
     
@@ -60,7 +61,8 @@
  * \param[in] p Index of the first element of the vector
  * \param[in] r Index of the last element of the vector
  */
-void mergeSort(std::vector<int>& numbers, int p, int r)
+template <typename T>
+void mergeSort(std::vector<T>& numbers, int p, int r)
 {
     if (p < r)
     {
