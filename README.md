@@ -33,8 +33,8 @@ I have the intention to code all of these algorithms/data structures and in diff
 	
 ### [Data Structures](./Data\ Structures)	
 1. [Graph](./Data\ Structures/Graph/README.md)	
-2. [Hash\ Table](./Data\ Structures/Hash\ Table/README.md)
-3. [Linked\ List](./Data\ Structures/Linked\ List/README.md)
+2. [Hash Table](./Data\ Structures/Hash\ Table/README.md)
+3. [Linked List](./Data\ Structures/Linked\ List/README.md)
 4. [Queue](./Data\ Structures/Queue/README.md)
 5. [Stack](./Data\ Structures/Stack/README.md)
 6. [Tree](./Data\ Structures/Tree/README.md)		
