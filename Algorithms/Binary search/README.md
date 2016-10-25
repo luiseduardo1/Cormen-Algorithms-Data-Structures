@@ -7,7 +7,7 @@ Binary seach is an algorithm for finding an element in a binary search tree or c
 We will often use the term *binary search* when the algorithm is used on arrays and *binary search tree* when is used on a tree based data structure.
 
 #### Running time :
-    - Best case perfomance : \theta(1)
+  - Best case perfomance : θ(1)
 
 ## Pseudocode
 
