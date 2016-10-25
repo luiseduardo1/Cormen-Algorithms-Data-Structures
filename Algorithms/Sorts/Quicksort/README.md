@@ -25,6 +25,7 @@ Once we have the 2 partitions, we only have to re-execute the quicksort algorith
 
 - Despite the slow worst-case running time, quicksort is often the best practical choice for sorting because it's efficient on the average (and sorts in place).
 - It is a popular algorithm for sorting large input arrays.
+- It's a good algorithm if the data input is well mixed but not if it's almost already sorted.
 
 ## Pseudocode
 
