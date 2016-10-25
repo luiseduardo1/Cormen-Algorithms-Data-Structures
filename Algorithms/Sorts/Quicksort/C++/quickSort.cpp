@@ -7,7 +7,8 @@
 #include <iostream>
 #include <vector>
 
-int partition(std::vector<int>& numbers, int firstElementIndex, int lastElementIndex) {
+template<typename T>
+int partition(std::vector<T>& numbers, int firstElementIndex, int lastElementIndex) {
     int pivot = numbers[lastElementIndex]; 
     int finalPivotIndex = firstElementIndex; 
 
@@ -22,7 +23,8 @@ int partition(std::vector<int>& numbers, int firstElementIndex, int lastElementI
     return finalPivotIndex; 
 }
 
-void quickSort(std::vector<int>& numbers, int firstElementIndex, int lastElementIndex) {
+template<typename T>
+void quickSort(std::vector<T>& numbers, int firstElementIndex, int lastElementIndex) {
     if (firstElementIndex < lastElementIndex) {
         int pivotIndex = partition(numbers, firstElementIndex, lastElementIndex);
         quickSort(numbers, firstElementIndex, pivotIndex - 1);
@@ -32,9 +34,8 @@ void quickSort(std::vector<int>& numbers, int firstElementIndex, int lastElement
 
 // Testing the quicksort function
 int main() {
-    std::vector<int> numbers = {44, 9, 237, 1, 34, 5, 345, 1, 3};
+    std::vector<int> numbers = {345, 44, 9, 237, 1, 5, 1, 44, 2, 5, 6};
     quickSort(numbers, 0, numbers.size()-1);
-    
     for(const auto& x: numbers) {
         std::cout << x <<" ";
     }
