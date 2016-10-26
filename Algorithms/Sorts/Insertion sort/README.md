@@ -6,6 +6,9 @@ Insertion sort works the way many people sort a hand of playing cards. We start 
 
 ![Insertion cards](fig/InsertionCards.png)
 
+This algorithm is considered as a *Decrease by 1 and Conquer* algorithm.
+
+
 ##### Running time:
 
  - Worst case perfomance : O(n^2)

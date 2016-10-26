@@ -10,8 +10,10 @@ I have the intention to code all of these algorithms/data structures and in diff
 ### [Algorithms](./Algorithms)	
 
 1. [Binary search](./Algorithms/Binary\ search)		
-	1.1. [Tree-delete](./Algorithms/Binary\ search/Tree-delete/README.md)	
-	1.2. [Tree-insert](./Algorithms/Binary\ search/Tree-insert/README.md)	
+    1.1. [Binary search](./Algorithms/Binary\ search/Binary\ search/README.md)
+    1.2. [Binary search tree](./Algorithms/Binary\ search/Binary\ search\ tree/README.md)
+	    1.2.1. [Tree-delete](./Algorithms/Binary\ search/Binary\ search\ tree/Tree-delete/README.md)	
+	    1.2.2. [Tree-insert](./Algorithms/Binary\ search/Binary\ search\ tree/Tree-insert/README.md)	
 
 2. [Graphs](./Algorithms/Graphs)	
 	2.1. [Breadth-first search](./Algorithms/Graphs/Breadth-first\ search/README.md)    
@@ -28,7 +30,7 @@ I have the intention to code all of these algorithms/data structures and in diff
 	3.3. [Heap sort](./Algorithms/Sorts/Heapsort/README.md)		
 	3.4. [Insertion sort](./Algorithms/Sorts/Insertion\ sort/README.md)		
 	3.5. [Merge sort](./Algorithms/Sorts/Merge\ sort/README.md)		
-	3.6. [Quicksort](./Algorithms/Sorts/Quicksort/README.md)	
+	3.6. [Quick sort](./Algorithms/Sorts/Quicksort/README.md)	
 	3.7. [Radix sort](./Algorithms/Sorts/Radix\ sort/README.md)
 	
 ### [Data Structures](./Data\ Structures)	
