@@ -24,15 +24,18 @@ I have the intention to code all of these algorithms/data structures and in diff
   2.6. [Prim's algorithm](./Algorithms/Graphs/Prim's\ algorithm/README.md)    
   2.7. [Traveling salesman](./Algorithms/Graphs/Traveling\ salesman/README.md)    
 
-3. [Sorts](./Algorithms/Sorts)  
-  3.1. [Bubble sort](./Algorithms/Sorts/Bubble\ sort/README.md)   
-  3.2. [Bucket sort](./Algorithms/Sorts/Bucket\ sort/README.md)		
-	3.3. [Heap sort](./Algorithms/Sorts/Heapsort/README.md)		
-	3.4. [Insertion sort](./Algorithms/Sorts/Insertion\ sort/README.md)		
-	3.5. [Merge sort](./Algorithms/Sorts/Merge\ sort/README.md)		
-	3.6. [Quick sort](./Algorithms/Sorts/Quicksort/README.md)	
-	3.7. [Radix sort](./Algorithms/Sorts/Radix\ sort/README.md)
-	
+3. [Selection](./Algorithms/Selection)
+    3.1. [Selection algorithm](./Algorithms/Selection/README.md)
+
+4. [Sorts](./Algorithms/Sorts)  
+  4.1. [Bubble sort](./Algorithms/Sorts/Bubble\ sort/README.md)   
+  4.2. [Bucket sort](./Algorithms/Sorts/Bucket\ sort/README.md)		
+	4.3. [Heap sort](./Algorithms/Sorts/Heapsort/README.md)		
+	4.4. [Insertion sort](./Algorithms/Sorts/Insertion\ sort/README.md)		
+	4.5. [Merge sort](./Algorithms/Sorts/Merge\ sort/README.md)		
+	4.6. [Quick sort](./Algorithms/Sorts/Quicksort/README.md)	
+	4.7. [Radix sort](./Algorithms/Sorts/Radix\ sort/README.md)
+
 ### [Data Structures](./Data\ Structures)	
 1. [Graph](./Data\ Structures/Graph/README.md)	
 2. [Hash Table](./Data\ Structures/Hash\ Table/README.md)
