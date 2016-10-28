@@ -9,11 +9,11 @@ I have the intention to code all of these algorithms/data structures and in diff
 
 ### [Algorithms](./Algorithms)	
 
-1. [Binary search](./Algorithms/Binary\ search)		
-    1.1. [Binary search](./Algorithms/Binary\ search/Binary\ search/README.md)
-    1.2. [Binary search tree](./Algorithms/Binary\ search/Binary\ search\ tree/README.md)
-	    1.2.1. [Tree-delete](./Algorithms/Binary\ search/Binary\ search\ tree/Tree-delete/README.md)	
-	    1.2.2. [Tree-insert](./Algorithms/Binary\ search/Binary\ search\ tree/Tree-insert/README.md)	
+1. [Binary search](./Algorithms/Binary\ search)	
+	1.1. [Binary search](./Algorithms/Binary\ search/Binary\ search/README.md)  
+	1.2. [Binary search tree](./Algorithms/Binary\ search/Binary\ search\ tree/README.md)	
+		1.2.1. [Tree-delete](./Algorithms/Binary\ search/Binary\ search\ tree/Tree-delete/README.md)		
+		1.2.2. [Tree-insert](./Algorithms/Binary\ search/Binary\ search\ tree/Tree-insert/README.md)	
 
 2. [Graphs](./Algorithms/Graphs)	
 	2.1. [Breadth-first search](./Algorithms/Graphs/Breadth-first\ search/README.md)    
@@ -24,8 +24,8 @@ I have the intention to code all of these algorithms/data structures and in diff
   2.6. [Prim's algorithm](./Algorithms/Graphs/Prim's\ algorithm/README.md)    
   2.7. [Traveling salesman](./Algorithms/Graphs/Traveling\ salesman/README.md)    
 
-3. [Selection](./Algorithms/Selection)
-    3.1. [Selection algorithm](./Algorithms/Selection/README.md)
+3. [Selection](./Algorithms/Selection)	
+	3.1. [Selection algorithm](./Algorithms/Selection/README.md)
 
 4. [Sorts](./Algorithms/Sorts)  
   4.1. [Bubble sort](./Algorithms/Sorts/Bubble\ sort/README.md)   
