@@ -6,6 +6,7 @@ Implementation of important algorithms from the book "Introduction to Algorithms
 I have the intention to code all of these algorithms/data structures and in different languages, there is still many to implement. Details of the algorithm/data structures and it's implementation will be given in the algorithm folder README file. I'm doing this mostly to have a better understanding of these CS concepts.
 
 ## Table of Contents	
+CLick on links to to to respective tab.
 
 ### [Algorithms](./Algorithms)	
 
